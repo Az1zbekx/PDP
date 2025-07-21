@@ -1,0 +1,43 @@
+65(10)  => 1000001(2)
+101(10) => 1100101(2)
+71(10)  => 1000111(2)
+
+1. Nazariya bo'yicah ishlash
+
+Bo'lish	Natija	Qoldiq
+65 ÷ 2	32	1
+32 ÷ 2	16	0
+16 ÷ 2	8	0
+8 ÷ 2	4	0
+4 ÷ 2	2	0
+2 ÷ 2	1	0
+1 ÷ 2	0	1
+
+Qoldiqlarni pastdan yuqoriga yozamiz:
+1 0 0 0 0 0 1
+
+2. c++ kodi
+
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+	int x;
+	cin >> x;
+	string s = "";
+	do{
+		s = char(x % 2 + 48) + s;
+		x /= 2;
+	}while(x);
+	cout << s;
+	return 0;
+}
+
+
+3.python kodi
+
+x = int(input()) 
+s = bin(x)
+print(s[2:])
+
+
+

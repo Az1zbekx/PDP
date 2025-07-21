@@ -1,0 +1,18 @@
+1.12000 Bit necha KB ga teng?
+
+12000 Bit -> 1500 Bayt -> 1 KB 476 Bayt
+
+
+2. 2048 KB necha MB ga teng?
+
+2048 kB -> 2 MB
+
+
+3. 16000 Bit necha KB ga teng?
+
+16000 Bit -> 2000 Bayt -> 1 KB 976 Bayt
+
+
+4. 4096 Bayt necha KB ga teng?
+
+4096 Bayt -> 4 KB

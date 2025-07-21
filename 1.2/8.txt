@@ -1,0 +1,18 @@
+1. 3200 Bit necha Bayt ga teng?
+
+3200 Bit -> 400 Bayt
+
+
+2. 1200 KB necha MB ga teng?
+
+1200 -> 1 MB 176 KB
+
+
+3. 48000 Bayt necha MB ga teng?
+
+48000 Bayt -> 46 KB 896 Bayt -> 0.045776 MB
+
+
+4. 120000 MB necha TB ga teng
+
+120000 MB -> 117 GB 192 MB -> 0.114445 TB 
