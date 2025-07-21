@@ -1,0 +1,36 @@
+1. SSD bilan HDD farqini yoritib bering:
+
+Kompyuter texnologiyalari sohasida ma’lumotlarni saqlash juda muhim hisoblanadi. Eng ko‘p ishlatiladigan ikkita saqlash qurilmasi bu – HDD (Hard Disk Drive) va SSD (Solid State Drive) hisoblanadi. 
+Ularning har biri o‘ziga xos afzallik va kamchiliklarga ega.
+
+HDD – bu mexanik disk bo‘lib, ichida aylanuvchi disklar yordamida ma’lumotlar saqlanadi. Shu sababli, ularning tezligi nisbatan past, lekin hajmi katta va narxi arzon bo‘ladi. 
+Masalan, 1TB HDD’ni arzon narxda topish mumkin. Bu esa uni byudjeti cheklangan foydalanuvchilar uchun mos qiladi.
+
+SSD esa zamonaviy, mexanik qismlarsiz, tez ishlaydigan qurilma. Ular ma’lumotlarni elektr impulslar orqali tezda o‘qiydi va yozadi. 
+Shu sababli, SSD’lar kompyuterning yuklanish vaqtini kamaytiradi va umumiy ishlashini tezlashtiradi. 
+Bundan tashqari, ular zarbaga chidamliroq va ishonchliroq hisoblanadi, lekin katta hajmli SSD’lar qimmat bo‘ladi.
+
+
+2.Dastur deganda nimani tushunasiz?
+
+Dastur — bu kompyuterda avtomatik tarzda bajariladigan topshiriqlar majmuasi. 
+Ular orqali kompyuterga ma’lumotni qayta ishlash, saqlash, tahlil qilish yoki foydalanuvchi bilan aloqa qilish kabi vazifalar yuklanadi.
+
+Dastur turlari:
+Tizim dasturlari – masalan, operatsion tizimlar (Windows, Linux).
+Amaliy dasturlar – masalan, Microsoft Word, Google Chrome, Telegram.
+Dasturlash tillarida yozilgan dasturlar – masalan, Python, C++, Java’da yozilgan maxsus funksiyalarni bajaruvchi dasturlar.
+Mobil ilovalar – Android yoki iOS uchun yaratilgan dasturlar (Instagram, TikTok).
+O‘yinlar – video o‘yinlar ham dastur hisoblanadi (PUBG, MLBB, FIFA).
+
+3.5 ta dasturlash tilini yozib bering.
+
+1.Python
+2.C++
+3.C#
+4.Java
+5.Javascript
+
+
+ 
+ 
