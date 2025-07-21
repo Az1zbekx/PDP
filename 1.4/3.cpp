@@ -41,12 +41,12 @@ int main() {
     cout << "Raqamlar ko'paytmasi: " << ans << endl;
 
     x = input(10000, 99999, "5 xonali son kiriting: ");
-    ans = 1;
+    ans = 0;
     while(x){
-        ans *= (x % 10);
+        ans += (x % 10);
         x /= 10;
     }
-    cout << "Raqamlar ko'paytmasi: " << ans << endl;
+    cout << "Raqamlar yig'indisi: " << ans << endl;
 
     x = input(100, 999, "3 xonali son kiriting: ");
     cout << "Teskari ko'rinishi: " << x % 10 << (x / 10) % 10 << x / 100 << endl;
