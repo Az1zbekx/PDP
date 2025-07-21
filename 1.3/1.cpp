@@ -9,4 +9,4 @@ int main(){
 	cout << x * x << endl;
 	// long long qilganim sababi agar x * x katta bo'lib ketsa int ga sig'may qolishi mumkin.
 	return 0;
-}1
+}
