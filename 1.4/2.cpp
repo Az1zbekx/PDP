@@ -24,14 +24,14 @@ int input(int min, int max, string mes) {
 int main() {
     int x;
 
-    x = input(10, 99, "2 xonali son kiriting: ");
-    cout << "Birlar xonasidagi raqam: " << x % 10 << endl;
+    x = input(10000, 99999, "5 xonali son kiriting: ");
+    cout << "Minglar xonasidagi raqam: " << (x / 1000) % 10 << endl;
+
+    x = input(1000, 9999, "4 xonali son kiriting: ");
+    cout << "Yuzlar xonasidagi raqam: " << (x / 10) % 10 << endl;
 
     x = input(100, 999, "3 xonali son kiriting: ");
-    cout << "O'nlar xonasidagi raqam: " << (x / 10) % 10 << endl;
-
-    x = input(100, 999, "Yana 3 xonali son kiriting: ");
-    cout << "Yuzlar xonasidagi raqam: " << x / 100 << endl;
+    cout << "Raqamlar yig'indisi: " << (x % 10) + (x / 10) % 10 + (x / 100) << endl;
 
     return 0;
 }
