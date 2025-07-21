@@ -1,0 +1,18 @@
+1. 8 TB necha KB ga teng?
+
+8 TB -> 8192 GB -> 8388608 -> MB -> 8589934592 KB
+
+
+2. 12 MB necha Bayt ga teng?
+
+12 MB -> 12288 KB -> 12582912 Bayt
+
+
+3. 5000 GB necha TB ga teng?
+
+5000 GB -> 4 TB 904 GB
+
+
+4. 3000 MB necha GB ga teng?
+
+3000 MB -> 2 GB 952 MBx

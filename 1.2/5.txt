@@ -1,0 +1,19 @@
+1. 8 KB necha Bayt ga teng?
+
+8 KB -> 8192 Bayt
+
+
+2. 4 MB necha Bit ga teng?
+
+4 MB -> 4096 KB -> 4194304 Bayt -> 33554432 Bit 
+
+
+3. 3 Bayt necha Bit ga teng?
+
+3 Bayt -> 24 Bit
+
+
+4. 1 MB necha KB ga teng?
+
+1 MB -> 1024 KB
+

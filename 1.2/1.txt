@@ -1,0 +1,24 @@
+Assalomu aleykum PDP Universiteti ushbu topshiriqni notepad, word, excel yordamida bajaring deyilgan ekan ammo men Arch linux ishlatganim uchun bunday microsoft dasturlar ozgina muammo shuning uchun men
+txt faylga bajardim.
+
+
+
+1. 2 Soat necha Minut ga teng?
+
+2 Soat -> 120 Minut
+
+
+
+2. 5 Hafta necha Soat ga teng? 
+
+5 Hafta -> 35 Kun -> 840 Soat
+ 
+
+3. 4 Minut necha Sekund ga teng?
+
+4 Minut -> 240 Sekund
+
+
+4. 25 Soat necha Sekund ga teng?
+
+25 Soat -> 90000 Sekund

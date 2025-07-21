@@ -1,0 +1,18 @@
+1. 5 GB necha MB ga teng?
+
+5 GB -> 5120 MB
+
+
+2. 3 MB necha KB ga teng?
+
+3 MB -> 3072 KB 
+
+
+3. 8 TB necha MB ga teng?
+
+8 TB -> 8192 GB -> 8388608 MB
+
+
+4. 5 GB necha MB ga teng?
+
+5 GB -> 5120 MB

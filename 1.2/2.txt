@@ -1,0 +1,17 @@
+1. 150 Hafta necha soat ga teng?
+
+150 hafta -> 1050 kun -> 25200 soat
+
+
+2. 4 kun necha minut ga teng?
+
+4 kun -> 96 soat -> 5760 minut
+
+
+3. 8 soat necha sekund ga teng?
+
+8 soat -> 480 minut -> 28800
+
+4. 24 soat necha kun ga teng?
+
+24 soat -> 1 kun 

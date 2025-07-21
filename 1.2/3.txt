@@ -1,0 +1,20 @@
+1. 24 Kun necha Hafta ga teng
+
+24 kun -> 3 hafta 3 kun 
+
+
+2. 3600 Sekund necha Soat ga teng
+
+3600 sekund -> 60 minut -> 1 soat 
+
+
+3. 2400 Sekund necha Minut ga teng
+
+2400 sekund -> 40 minut
+
+
+4. 2419200 Sekund necha Haftaga ga teng
+
+2419200 sekund -> 40320 minut -> 672 soat -> 28 kun -> 4 hafta 
+
+
