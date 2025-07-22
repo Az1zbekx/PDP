@@ -16,8 +16,6 @@
         }
       ]
     },
-
-
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -25,8 +23,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/azizbek/PDP/1.4",
-      "program": "/home/azizbek/PDP/1.4/build/Debug/outDebug",
+      "cwd": "/home/azizbek/PDP/1.5",
+      "program": "/home/azizbek/PDP/1.5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
