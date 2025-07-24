@@ -25,6 +25,6 @@ int main() {
     }
     if(n > 0) ans += v1[n - 1];
 
-    cout << ans << "." << endl;
+    cout << ans << endl;
     return 0;
 }
