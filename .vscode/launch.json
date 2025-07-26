@@ -23,8 +23,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/azizbek/PDP/2.2",
-      "program": "/home/azizbek/PDP/2.2/build/Debug/outDebug",
+      "cwd": "/home/azizbek/PDP/2.3",
+      "program": "/home/azizbek/PDP/2.3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
