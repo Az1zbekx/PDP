@@ -17,15 +17,14 @@ int main(){
                 break;
             }
         }
-        if(b){
-            k++;
-        }
+        if(b) k++;
     }
     cout << k << endl; k = 0;
+
     f(n, m) cin >> a[i][j];
-    for(int i = 0; i < n; i++){
+    for(int i = 0; i < m; i++){
         int b = 1;
-        for(int j = 0; j < m; j++){
+        for(int j = 0; j < n; j++){
             if(a[j][i] % 2 == 1){
                 b = 0;
                 break;
@@ -34,10 +33,11 @@ int main(){
         if(b) k++;
     }
     cout << k << endl; k = 0;
+
     f(n, m) cin >> a[i][j];
-    for(int i = 0; i < n; i++){
+    for(int i = 0; i < m; i++){
         int b = 1;
-        for(int j = 0; j < m; j++){
+        for(int j = 0; j < n; j++){
             if(a[j][i] % 2 == 0){
                 b = 0;
                 break;
@@ -45,5 +45,5 @@ int main(){
         }
         if(b) k++;
     }
-    cout  << k << endl;
+    cout << k << endl;
 }
